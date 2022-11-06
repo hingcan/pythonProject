@@ -4,3 +4,4 @@ lamborghini_miura
 alfa_romeo_33
 toyota_2000gt
 honda_nsx
+lada_priora
